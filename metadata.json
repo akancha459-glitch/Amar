@@ -1,0 +1,6 @@
+{
+  "name": "LED POV Fan Controller",
+  "description": "Control WS2812B LED POV Fan display light via Wi-Fi. Create custom pixel grids, scroll texts, and emojis with speed and brightness controllers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
